@@ -1,4 +1,4 @@
-This is a remake react project from ZAINKEEPSCODE
+This is a remake reactjs project from ZAINKEEPSCODE
 
 https://our-residence.vercel.app/
 
